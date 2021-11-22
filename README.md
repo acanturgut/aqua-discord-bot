@@ -1,1 +1,1 @@
-Aqua discord bot which fetches current value from from red.planetfinance.io
+Aqua discord bot which fetches current value from red.planetfinance.io
